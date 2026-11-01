@@ -1,0 +1,8 @@
+{
+  "name": "Management DCR",
+  "description": "Doctor Call Report (DCR) field management system for recording doctor visits, weekly performance metrics, and offline draft tracking.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
